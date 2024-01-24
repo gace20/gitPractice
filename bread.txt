@@ -1,4 +1,4 @@
-Person: Susy
+Person: Jean
 time: 2024-1-21
 local: European
 much:33
